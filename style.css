@@ -86,4 +86,5 @@ a:hover {
 
 .attribution {
   margin-top: 80px;
+  flex: 0;
 }
